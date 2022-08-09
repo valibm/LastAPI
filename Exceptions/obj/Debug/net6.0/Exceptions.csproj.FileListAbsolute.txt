@@ -1,0 +1,12 @@
+C:\Users\Help\source\repos\API\Exceptions\bin\Debug\net6.0\Exceptions.deps.json
+C:\Users\Help\source\repos\API\Exceptions\bin\Debug\net6.0\Exceptions.dll
+C:\Users\Help\source\repos\API\Exceptions\bin\Debug\net6.0\Exceptions.pdb
+C:\Users\Help\source\repos\API\Exceptions\obj\Debug\net6.0\Exceptions.csproj.AssemblyReference.cache
+C:\Users\Help\source\repos\API\Exceptions\obj\Debug\net6.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Help\source\repos\API\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\Help\source\repos\API\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfo.cs
+C:\Users\Help\source\repos\API\Exceptions\obj\Debug\net6.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Help\source\repos\API\Exceptions\obj\Debug\net6.0\Exceptions.dll
+C:\Users\Help\source\repos\API\Exceptions\obj\Debug\net6.0\refint\Exceptions.dll
+C:\Users\Help\source\repos\API\Exceptions\obj\Debug\net6.0\Exceptions.pdb
+C:\Users\Help\source\repos\API\Exceptions\obj\Debug\net6.0\ref\Exceptions.dll
